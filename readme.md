@@ -10,7 +10,7 @@ This Tampermonkey script adds a floating button to GitHub Jupyter Notebook (`*.i
 ## Installation
 
 1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/) installed in your browser.
-2. Click [Install from github](https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/dist/open-in-colab.js)
+2. Click [Install from github](https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/open-in-colab.js)
 
 ## Usage
 
