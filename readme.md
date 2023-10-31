@@ -1,35 +1,33 @@
-# Open in Colab
+# 📘 Open in Colab
 
-This Tampermonkey script adds a floating button to GitHub Jupyter Notebook (`*.ipynb`) pages that allows users to open the notebook directly in Google Colab.
+This Tampermonkey script adds a convenient floating button to GitHub pages hosting Jupyter Notebooks (`.ipynb` files). Clicking the button allows users to open the notebook directly in Google Colab with ease.
 
-## Features
+## ✨ Features
 
-- 🚀 Easy to use: Adds a floating "Open in Colab" button on GitHub Jupyter Notebook pages.
-- 🔄 Dynamic: Button only appears on pages with `.ipynb` files and hides automatically on other pages.
+- 🚀 **Easy to Use:** A floating "Open in Colab" button is automatically added to GitHub pages with Jupyter Notebooks.
+- 🔄 **Dynamic Visibility:** The button only appears on pages containing `.ipynb` files and remains hidden on other pages.
 
-## Installation
+## 🛠 Installation
 
-1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/) installed in your browser.
-2. Click [Install from github](https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/open-in-colab.user.js)
+1. Ensure [Tampermonkey](https://www.tampermonkey.net/) is installed in your browser.
+2. Click to [Install from GitHub](https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/open-in-colab.user.js).
 
-## Usage
+## 📖 Usage
 
-Once installed, navigate to any Jupyter Notebook file on GitHub (URL ending with `.ipynb`). You should see a floating "Open in Colab" button on the bottom right of the page. Click on it, and the notebook will open in Google Colab in a new tab.
+After installation, navigate to any Jupyter Notebook file on GitHub (URLs ending with `.ipynb`). A floating "Open in Colab" button will appear at the bottom right of the page. Click it, and the notebook will open in a new tab in Google Colab.
 
-## Customization
+## ⚙ Customization
 
-Feel free to fork this script and customize it as per your needs. If you have any suggestions or improvements, pull requests are welcome!
+You're welcome to fork this script and customize it to your preference. Suggestions and improvements are encouraged via pull requests!
 
-## Disclaimer
+## ⚠ Disclaimer
 
-This script is provided "as is", without warranty of any kind. Use it at your own risk.
+This script is provided "as is", without any warranty. Use at your own risk.
 
+## 📜 License
 
-## License
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+## 🤝 Credits
 
-
-## Credits
-
-Created by [Dong Wang](https://github.com/nanguoyu) with the assistance of ChatGPT from OpenAI.
+Created by [Dong Wang](https://github.com/nanguoyu), with the assistance of ChatGPT from OpenAI.
