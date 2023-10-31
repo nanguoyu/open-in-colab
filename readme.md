@@ -1,12 +1,4 @@
-<div align="center">
-
-Open in Colab
-
-</div>
-
-
-
-# Open in Colab Tampermonkey Script
+# Open in Colab
 
 This Tampermonkey script adds a floating button to GitHub Jupyter Notebook (`*.ipynb`) pages that allows users to open the notebook directly in Google Colab.
 
