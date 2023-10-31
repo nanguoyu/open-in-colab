@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open in Colab
-// @updateURL       https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/open-in-colab.js
-// @downloadURL     https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/open-in-colab.js
+// @updateURL       https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/dist/open-in-colab.js
+// @downloadURL     https://raw.githubusercontent.com/nanguoyu/open-in-colab/main/dist/open-in-colab.js
 // @version      0.3
 // @description  Open a GitHub notebook in Colab.
 // @author       Dong Wang
