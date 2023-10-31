@@ -1,5 +1,7 @@
 # 📘 Open in Colab
 
+[中文](./readme_cn.md)
+
 This Tampermonkey script adds a convenient floating button to GitHub pages hosting Jupyter Notebooks (`.ipynb` files). Clicking the button allows users to open the notebook directly in Google Colab with ease.
 
 ## ✨ Features
