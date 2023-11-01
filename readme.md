@@ -20,6 +20,10 @@ After installation, navigate to any Jupyter Notebook file on GitHub (URLs ending
 
 You can try [example.ipynb](./example.ipynb)!
 
+
+![](.github/example.png)
+
+
 ## ⚙ Customization
 
 You're welcome to fork this script and customize it to your preference. Suggestions and improvements are encouraged via pull requests!
