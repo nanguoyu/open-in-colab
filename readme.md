@@ -16,12 +16,10 @@ This Tampermonkey script adds a convenient floating button to GitHub pages hosti
 
 ## 📖 Usage
 
-After installation, navigate to any Jupyter Notebook file on GitHub (URLs ending with `.ipynb`). A floating "Open in Colab" button will appear at the bottom right of the page. Click it, and the notebook will open in a new tab in Google Colab.
-
-You can try [example.ipynb](./example.ipynb)!
+After installation, navigate to any Jupyter Notebook file on GitHub (URLs ending with `.ipynb`), such as [example.ipynb](./example.ipynb). A floating "Open in Colab" button will appear at the bottom right of the page. Click it, and the notebook will open in a new tab in Google Colab.
 
 
-![](.github/example.png)
+![](.github/example.gif)
 
 
 ## ⚙ Customization
