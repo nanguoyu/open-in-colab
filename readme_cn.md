@@ -16,7 +16,10 @@
 
 ## 📖 使用方法
 
-安装后，导航到 GitHub 上的任意 Jupyter 笔记本文件（URL 以 `.ipynb` 结尾）。页面右下角将出现一个浮动的“在 Colab 中打开”按钮。点击它，笔记本将在新标签页的 Google Colab 中打开。
+安装后，导航到 GitHub 上的任意 Jupyter 笔记本文件（URL 以 `.ipynb` 结尾）, 比如[example.ipynb](./example.ipynb)。页面右下角将出现一个浮动的“在 Colab 中打开”按钮。点击它，笔记本将在新标签页的 Google Colab 中打开。
+
+![](.github/example.gif)
+
 
 ## ⚙ 自定义
 
